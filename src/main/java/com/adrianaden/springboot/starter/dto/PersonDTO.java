@@ -11,6 +11,9 @@ import javax.validation.constraints.Size;
 @Getter
 @DTO
 public class PersonDTO {
+	
+	private Long id;
+	
     @NotNull
     private String firstName;
 
