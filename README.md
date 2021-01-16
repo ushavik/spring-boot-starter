@@ -5,7 +5,7 @@
 ```bash
 # clone our repo
 # --depth 1 removes all but one .git commit history
-git clone https://github.com/adrianaden/spring-boot-starter.git
+git clone https://github.com/ushavik/spring-boot-starter.git
 
 # change directory to our repo
 cd spring-boot-starter
